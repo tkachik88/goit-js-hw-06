@@ -1,2 +1,0 @@
-!function(){var a=document.querySelector("#validation-input");Number(a.dataset.length);a.addEventListener("blur",(function(s){s.currentTarget.value.length===sumbolsNumber?(a.classList.contains("invalid")&&a.classList.remove("invalid"),a.classList.add("valid")):(a.classList.contains("valid")&&a.classList.remove("valid"),a.classList.add("invalid"))}))}();
-//# sourceMappingURL=task-06.ac48eeb1.js.map
